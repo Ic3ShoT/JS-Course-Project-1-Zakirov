@@ -1,0 +1,58 @@
+.container{
+    font-family: "Sitka Display";
+}
+
+.btn-primaryimdb{
+    background: #f5c518;
+    font-family: Arial;
+}
+
+.btn-primaryshazam{
+    background: #007bff;
+    font-family: Arial;
+
+}
+
+.btn-primaryweather{
+    background: #eb563e;
+    font-family: Arial;
+
+}
+
+.card-body {
+    text-align: center;
+    background: whitesmoke;
+}
+
+.card-title {
+    font-size: 50px;
+    font-family: Julietta;
+}
+
+a:link {
+    color: white;
+}
+
+a:hover {
+    color: black;
+}
+
+a:active {
+    color: black;
+}
+
+a:visited {
+    color: white;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: whitesmoke;
+    color: black;
+    text-align: center;
+    font-family: "Hotel De Paris";
+    font-style: italic;
+}
