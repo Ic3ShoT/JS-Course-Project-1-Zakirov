@@ -1,4 +1,5 @@
-### Описание проекта
+## Api modals
 
-Страница с блоком из 3 виджетов. При нажатии кнопки одного из виджетов, появится модальное окно с информацией по выбранному виджету. Внутри модального окна содержится информация, подтянутая из api запроса, а также кнопки перехода на модальные окна других виджетов.
-Проект написан на чистом **JS**.
+Modals with information about the current Weather, Shazam chart tops and a description of a random movie from IMDB. Written with a pure javascript.
+
+<img src="https://i.imgur.com/JTmnOBS.png">
