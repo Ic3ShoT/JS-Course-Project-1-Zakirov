@@ -1,21 +1,19 @@
-.container{
-    font-family: "Sitka Display";
+@import "https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap";
+*{
+    font-family: "Poppins", sans-serif;
 }
 
 .btn-primaryimdb{
     background: #f5c518;
-    font-family: Arial;
 }
 
 .btn-primaryshazam{
     background: #007bff;
-    font-family: Arial;
 
 }
 
 .btn-primaryweather{
     background: #eb563e;
-    font-family: Arial;
 
 }
 
@@ -26,7 +24,6 @@
 
 .card-title {
     font-size: 50px;
-    font-family: Julietta;
 }
 
 a:link {
@@ -45,14 +42,6 @@ a:visited {
     color: white;
 }
 
-.footer {
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    background-color: whitesmoke;
-    color: black;
-    text-align: center;
-    font-family: "Hotel De Paris";
-    font-style: italic;
+.card-img-top{
+    height: 300px;
 }
